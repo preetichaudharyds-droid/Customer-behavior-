@@ -1,7 +1,10 @@
-🛍️ Customer Behavior Analysis using K-Means Clustering
+🛍️ Customer Behavior Analysis using K-Means Clustering<br>
+
 📌 Project Overview
 
-This project focuses on analyzing customer behavior using K-Means Clustering, an unsupervised machine learning algorithm. The goal is to segment customers into different groups based on their purchasing patterns, helping businesses make data-driven decisions.
+This project focuses on analyzing customer behavior using K-Means Clustering, an unsupervised machine learning algorithm. 
+
+The goal is to segment customers into different groups based on their purchasing patterns, helping businesses make data-driven decisions.
 
 🎯 Objective
 
