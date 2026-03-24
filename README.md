@@ -94,7 +94,7 @@ Centroids marked for clarity<br>
 
 Customers are divided into distinct groups based on spending habits<br>
 
-High-income & high-spending customers are premium targets<br>
+High-income customers are premium targets<br>
 
 Low-spending customers may need engagement strategies<br>
 
