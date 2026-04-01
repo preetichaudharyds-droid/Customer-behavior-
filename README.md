@@ -22,7 +22,7 @@ The dataset contains customer-related information such as:
 
 Customer ID
 
-Age
+
 
 Gender
 
