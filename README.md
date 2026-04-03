@@ -34,7 +34,7 @@ Spending Score
 <br>
 ⚙️ Technologies Used
 <br>
-Python 🐍
+Python
 <br>
 Pandas
 <br>
