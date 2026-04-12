@@ -1,4 +1,4 @@
-🛍️ Customer Behavior Analysis using K-Means Clustering<br>
+ Customer Behavior Analysis using K-Means Clustering<br>
 
 📌 Project Overview
 
